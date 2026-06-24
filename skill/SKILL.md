@@ -1,6 +1,6 @@
 ---
 name: family-os
-description: Build and operate a privacy-preserving household information system. Use when Codex needs to initialize a family workspace, organize household records, update family facts, plans, projects, decisions, reminders, risks, reviews, or handle conversations about parenting, finance, health, career, housing, insurance, education, logistics, relationships, legal/admin tasks, long-term family development, or "family system" workflows. The skill is generic and must store private household data only in the user's configured local workspace, never inside the skill package.
+description: Build and operate a privacy-preserving household information system for AI agents and assistants. 用于初始化和持续维护本地家庭工作区，管理家庭事实、计划、项目、决策、提醒、风险、复盘和长期发展路径。 Use for parenting, finance, health, career, housing, insurance, education, logistics, relationships, legal/admin tasks, household records, and "family system" workflows. The skill is generic and must store private household data only in the user's configured local workspace, never inside the skill package.
 ---
 
 # Family OS

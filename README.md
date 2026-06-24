@@ -35,7 +35,7 @@ Family OS provides that structure:
 
 ```text
 family-os/
-  skill/       # The installable Codex skill package
+  skill/       # The installable agent skill package
   examples/    # Privacy-safe demo workspaces
   tests/       # Basic script tests
 ```
@@ -48,7 +48,7 @@ Install from ClawHub:
 clawhub install family-os
 ```
 
-Or clone this repository, then link the skill into your Codex skills directory:
+Or clone this repository, then link the skill into your local skills directory:
 
 ```bash
 git clone https://github.com/living-hi/family-os.git
@@ -174,7 +174,7 @@ Family OS 提供：
 clawhub install family-os
 ```
 
-也可以克隆仓库后，将 `skill/` 软链接到 Codex skills 目录：
+也可以克隆仓库后，将 `skill/` 软链接到本地 skills 目录：
 
 ```bash
 git clone https://github.com/living-hi/family-os.git
