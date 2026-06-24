@@ -42,7 +42,13 @@ family-os/
 
 ## Install
 
-Clone this repository, then link the skill into your Codex skills directory:
+Install from ClawHub:
+
+```bash
+clawhub install family-os
+```
+
+Or clone this repository, then link the skill into your Codex skills directory:
 
 ```bash
 git clone https://github.com/living-hi/family-os.git
@@ -162,7 +168,13 @@ Family OS 提供：
 
 ### 安装
 
-克隆仓库后，将 `skill/` 软链接到 Codex skills 目录：
+从 ClawHub 安装：
+
+```bash
+clawhub install family-os
+```
+
+也可以克隆仓库后，将 `skill/` 软链接到 Codex skills 目录：
 
 ```bash
 git clone https://github.com/living-hi/family-os.git
